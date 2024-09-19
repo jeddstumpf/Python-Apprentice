@@ -53,3 +53,15 @@ turtle.exitonclick()                    # Close the window when we click on it
 # Now you can try writing your own programs. Open
 # the next file 03_Turtle_Tricks.py
 # my first comment
+tina.penup()
+tina.forward(50)
+tina.left(70)            
+tina.forward(50)
+tina.color('teal')
+tina.backward(40)                        
+
+
+
+
+
+turtle.exitonclick()

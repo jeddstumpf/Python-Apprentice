@@ -19,5 +19,9 @@ tina = turtle.Turtle()                  # Create a turtle named tina
 
 
 ... # Your code here
-
+sides=5
+angle=360/sides
+for i in range(sides):
+    tina.forward(50)
+    tina.left(angle)              
 turtle.exitonclick()                    # Close the window when we click on it

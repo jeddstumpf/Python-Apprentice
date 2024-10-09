@@ -19,16 +19,12 @@ tina = turtle.Turtle()                  # Create a turtle named tina
 # Make each side of the triangle a different color with 
 # tina.pencolor()
 
-... # Your code here
+... # Your code hertina.pencolor("red")                # Close the windowtina.pencolor("red")
+sides=3
+angle=360/sides
+for i in range(sides):
+    tina.forward(50)
+    tina.left(angle)
 
-                   # Close the window when we click on it
-tina.forward(90) 
-tina.right(100)
-tina.forward(90)
-tina.right(100)
-tina.right(100)
-tina.left(30)
-tina.left(30)
-tina.left(100)
 
 turtle.done()

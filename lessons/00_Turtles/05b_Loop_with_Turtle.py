@@ -28,5 +28,24 @@ tina.left(90)
 tina.forward(150)
 tina.left(90)
 
+sides = (4)
+angle = sides/360
+
+for i in range(sides):
+    tina.forward(150)
+    tina.left(angle)
+    
+turtle.exitonclick()
+
+
+
+
+
+
+
+
+
+
+
 
 turtle.exitonclick()                    # Close the window when we click on it

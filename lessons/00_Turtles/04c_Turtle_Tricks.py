@@ -22,8 +22,18 @@ tina = turtle.Turtle()                  # Create a turtle named tina
 ... # Your code here
 tina.begin_fill()
 tina.circle(90)
-tina.fillcolor("red")
-  
+tina.fillcolor("blue")
+tina.end_fill()  
+tina.goto(150,150)
+tina.begin_fill()
+tina.circle(90)
+tina.fillcolor("green")
+tina.end_fill()
+
+
+
+
+
 
 
 

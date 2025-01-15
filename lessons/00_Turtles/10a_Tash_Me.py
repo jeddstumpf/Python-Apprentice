@@ -11,3 +11,18 @@ Hint: See 08a_More Turtle Programs, section 'Change the Background Image' and
 
 ... # Your code here
 
+
+def happy_birthday(birth_year,name):
+    age = 2025- birth_year
+
+    return "happy" + str(age) + name
+
+happy_birthday(2014,"jed`")
+
+
+
+
+
+
+
+

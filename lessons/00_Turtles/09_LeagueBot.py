@@ -18,3 +18,22 @@ screen.bgcolor('white')
 t = turtle.Turtle()
 
 ... # Your Code Here
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

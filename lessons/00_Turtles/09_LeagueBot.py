@@ -16,10 +16,11 @@ screen.setup(width=600, height=600)
 screen.bgcolor('white')
 
 t = turtle.Turtle()
+t = turtle.shape
 
 ... # Your Code Here
 
-
+('leageubot_bolt_gif')
 
 
 

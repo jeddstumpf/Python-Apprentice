@@ -16,7 +16,7 @@ screen.setup(width=600, height=600)
 screen.bgcolor('white')
 
 t = turtle.Turtle()
-t = turtle.shape
+t = turtle.shape('league_bolt_gif')
 
 ... # Your Code Here
 

@@ -26,24 +26,24 @@ tina.left(25)
 tina.forward(130)
 tina.left(150)
 tina.forward(110)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+tina.left(180)
+tina.forward(100)
+tina.left(90)
+tina.forward(150)
+tina.left(90)
+tina.forward(275)
+tina.left(90)
+tina.forward(150)
+tina.left(55)
+tina.forward(110)
+tina.right(80)
+tina.forward(110)
+tina.right(60)
+tina.forward(90)
+tina.right(70)
+tina.forward(145)
+tina.right(90)
+tina.forward(100)
 
 
 

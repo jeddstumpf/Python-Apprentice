@@ -68,7 +68,7 @@ t.speed(3)
 for i in range(4):
     t.goto(200, 200)
     t.goto(-200, -200)
-
+    t.goto(15,15) 
 
 
 
